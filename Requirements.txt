@@ -1,0 +1,7 @@
+flask
+flask-bootstrap
+requests
+paramiko
+python-dotenv
+discord-webhook
+
