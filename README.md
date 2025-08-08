@@ -35,7 +35,7 @@ SmartHoneypot/
 
 
 
-2. Install dependencies
+2. **Install dependencies**
 
 bash
 Copy
