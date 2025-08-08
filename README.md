@@ -73,14 +73,14 @@ For HTTP Honeypot
 ```bash
 python honeypot/http_honey.py
 ```
-📊 Start the Dashboard
+### 📊 Start the Dashboard
 ```bash
 cd dashboard
 python app.py
 ```
 Open in your browser: http://localhost:5000
 
-📌 Usage
+### 📌 Usage
 
 - Filter logs by service, date, IP, or User-Agent from the dashboard.
 - Blacklist IPs manually by adding them to blacklist.txt (auto for repeat offenders).
