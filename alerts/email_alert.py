@@ -3,9 +3,9 @@
 import smtplib
 from email.message import EmailMessage
 
-EMAIL_ADDRESS = "waqaswikky6@gmail.com"
-EMAIL_PASSWORD = "dsfksclqhosuuaxt"
-TO_EMAIL = "wikkysamady@gmail.com"
+EMAIL_ADDRESS = "123abc@gmail.com"
+EMAIL_PASSWORD = "App Password that you set on Gmail app"
+TO_EMAIL = "123abc@gmail.com"
 
 
 def send_email_alert(subject, body):
