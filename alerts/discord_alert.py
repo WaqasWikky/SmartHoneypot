@@ -1,7 +1,7 @@
 import requests
 
 def send_discord_alert_http(ip, data):
-    webhook_url = "https://discord.com/api/webhooks/1402052488819118140/9-Agk132sbPpQ8NGUAj7WUPrF71L686cWRpsKtN9Js1WUncyQnKXwU-b8_QeNQJO1m5a"
+    webhook_url = "Your Discord URL Here"
 
     message = f"🚨 **Honeypot Hit!**\n- IP: `{ip}`\n- Input: `{data.strip()}`"
 
